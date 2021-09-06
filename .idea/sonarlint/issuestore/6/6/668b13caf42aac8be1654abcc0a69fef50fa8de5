@@ -1,0 +1,24 @@
+
+E
+java:S2387"*"x" is the name of a field in "Component".(Û·£±ûÿÿÿÿ
+@
+java:S2387"*"y" is the name of a field in "Component".(±ßŒË
+S
+java:S1197"8Move the array designator from the variable to the type.(Û·£±ûÿÿÿÿ
+N
+java:S1197"8Move the array designator from the variable to the type.(±ßŒË
+P
+java:S1161&":Add the "@Override" annotation above this method signature(³ıŸê
+Q	java:S125,"<This block of commented-out lines of code should be removed.(—ÚÂÙ
+;
+java:S1905G"&Remove this unnecessary cast to "int".(÷“Út
+A
+java:S1905H"&Remove this unnecessary cast to "int".(Å¿°Úûÿÿÿÿ
+<	java:S131P""Add a default case to this switch.(Æóõµıÿÿÿÿ
+=	java:S131""Add a default case to this switch.(ù‚Óøÿÿÿÿ
+^
+java:S1192>"IDefine a constant instead of duplicating this literal "Ink Free" 3 times.(ËıV
+c
+java:S1192@"HDefine a constant instead of duplicating this literal "Score: " 4 times.(”˜¹Ôşÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
